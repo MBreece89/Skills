@@ -1,0 +1,19 @@
+{
+  "name": "mb-skills",
+  "version": "1.0.0",
+  "description": "Engineer-grade coding skills for AI agents — covering testing, security, accessibility, documentation, git conventions, and code review.",
+  "keywords": ["skills", "ai-agent", "claude", "copilot", "codex", "coding-standards"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mb0762/skills"
+  },
+  "scripts": {
+    "version": "changeset version",
+    "release": "changeset publish"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.0"
+  }
+}
+
